@@ -1,0 +1,35 @@
+.noir {
+    background-color:  black;
+    color: white;
+}
+
+.blanc {
+    background-color: white;
+    color: black;
+}
+
+.secret {
+    text-align: center;
+    display: none;
+}
+
+.visible {
+    display: block;
+    text-align: center;
+}
+
+.divA {
+    background-color: red;
+}
+
+.divB {
+    background-color: blue;
+}
+
+.divC {
+    background-color: green;
+}
+
+.divD {
+    background-color: pink;
+}
